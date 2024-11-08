@@ -1,6 +1,6 @@
 # Magic8bot 🎱
 
-Magic8bot is a Discord bot inspired by the classic Magic 8-Ball, offering users the chance to ask questions and receive fun, randomized responses. It's built using the `discord.py` library and includes commands to interact with the bot via Discord slash commands.
+Magic8bot is a tiny and lightweight Discord bot inspired by the classic Magic 8-Ball, offering users the chance to ask questions and receive fun, randomized responses. It's built using the `discord.py` library and includes commands to interact with the bot via Discord slash commands.
 
 ## Project Structure 📂
 
