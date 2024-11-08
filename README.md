@@ -7,9 +7,14 @@ Magic8bot is a Discord bot inspired by the classic Magic 8-Ball, offering users 
 Here's a breakdown of the project files:
 
 ```
-./
-├── ball.py        # Contains logic for generating responses
-└── bot.py         # Main bot file for handling interactions and commands         
+Magic8bot
+├── /src
+│   ├── ball.py        # Contains logic for generating responses
+│   └── bot.py         # Main bot file for handling interactions and commands
+│
+├── .gitignore
+├── LICENSE
+└── README.md
 ```
 
 ## Dependencies 📦
