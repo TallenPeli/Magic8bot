@@ -69,6 +69,7 @@ export BOT_TOKEN=your_discord_bot_token
 3. Run the bot:
 
 ```bash
+cd src
 python bot.py
 ```
 
