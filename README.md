@@ -9,8 +9,7 @@ Here's a breakdown of the project files:
 ```
 ./
 ├── ball.py        # Contains logic for generating responses
-├── bot.py         # Main bot file for handling interactions and commands
-└── .env           # Environment variables (not included for security reasons)
+└── bot.py         # Main bot file for handling interactions and commands         
 ```
 
 ## Dependencies 📦
