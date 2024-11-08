@@ -17,7 +17,6 @@ Here's a breakdown of the project files:
 
 The bot requires the following Python libraries:
 - `discord.py`: For interacting with the Discord API.
-- `python-dotenv`: For loading environment variables from the `.env` file.
 
 ## Setting Up a Virtual Environment 🔒
 
@@ -40,7 +39,7 @@ To avoid polluting your system Python environment, it's recommended to set up a 
 
 3. **Install dependencies:**
    ```bash
-   pip install discord.py python-dotenv
+   pip install discord.py
    ```
 
 ## Setting Environment Variables 🔑
