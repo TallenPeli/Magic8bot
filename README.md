@@ -2,7 +2,7 @@
 
 Magic8bot is a tiny and lightweight Discord bot inspired by the classic Magic 8-Ball, offering users the chance to ask questions and receive fun, randomized responses. It's built using the `discord.py` library and includes commands to interact with the bot via Discord slash commands.
 
-## Project Structure 📂
+## Project Structure
 
 Here's a breakdown of the project files:
 
@@ -17,12 +17,12 @@ Magic8bot
 └── README.md
 ```
 
-## Dependencies 📦
+## Dependencies
 
 The bot requires the following Python libraries:
 - `discord.py`: For interacting with the Discord API.
 
-## Setting Up a Virtual Environment 🔒
+## Setting Up a Virtual Environment
 
 To avoid polluting your system Python environment, it's recommended to set up a virtual environment:
 
@@ -46,7 +46,7 @@ To avoid polluting your system Python environment, it's recommended to set up a 
    pip install discord.py
    ```
 
-## Setting Environment Variables 🔑
+## Setting Environment Variables
 
 To store your Discord bot token, set an environment variable for BOT_TOKEN:
 
@@ -62,7 +62,7 @@ set BOT_TOKEN=your_discord_bot_token
 export BOT_TOKEN=your_discord_bot_token
 ```
 
-## How to Run the Project 🛠️
+## How to Run the Project
 
 1. Ensure the virtual environment is active (see instructions above).
 2. Set the environment variable as shown above.
@@ -76,6 +76,6 @@ python bot.py
 
 Once started, the bot will sync and listen for the `/ask` command in Discord, allowing users to ask questions.
 
-## License 📜
+## License
 
 This project is licensed under the MIT License.
